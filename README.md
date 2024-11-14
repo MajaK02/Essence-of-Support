@@ -5,7 +5,7 @@
 | <a href="https://majak02.github.io/Over-The-Rainbow/" target="_blank">Link to Project</a> |
 </p>
 
-# Over The Rainbow
+# Essence of Support
 Over the Rainbow is my first portfolio project developed as part of the Code Institute Full Stack Software Developer Bootcamp, consisting of learning outcomes to utilise HTML5, CSS3 & Bootstrap in order to fulfil the necessary requirements for the brief provided about Mental Health.
 
 ## Introduction
